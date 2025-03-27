@@ -1,0 +1,19 @@
+{
+  "name": "desktopappdates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannyvr6/DesktopAppDates.git"
+  },
+  "author": "yannyvr6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yannyvr6/DesktopAppDates/issues"
+  },
+  "homepage": "https://github.com/yannyvr6/DesktopAppDates#readme",
+  "description": ""
+}
